@@ -9,6 +9,11 @@
         "transform": "ts-auto-mock/transformer",
         "cacheBetweenTests": false
       }
+    ],
+    "lib": [
+      "dom",
+      "es5",
+      "scripthost",
     ]
   }
 }
